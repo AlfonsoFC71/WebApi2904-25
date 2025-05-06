@@ -145,8 +145,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "emp",
+        "Type": "WebApi2904_25.Models.Empleados",
         "IsRequired": true
       }
     ],
@@ -174,7 +174,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "WebApi2904_25.Models.Empleados",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -198,8 +198,8 @@
         "IsRequired": true
       },
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "emp",
+        "Type": "WebApi2904_25.Models.Empleados",
         "IsRequired": true
       }
     ],
