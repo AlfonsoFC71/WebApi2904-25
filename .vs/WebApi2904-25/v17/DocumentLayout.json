@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\models\\cpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\models\\cpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\controllers\\cpuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\controllers\\cpuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\dta\\datcontxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\dta\\datcontxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|c:\\users\\core\\source\\repos\\webapi2904-25\\webapi2904-25\\webapi2904-25.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9193DE79-4AF7-465C-9141-12E2986BF34F}|WebApi2904-25\\WebApi2904-25.csproj|solutionrelative:webapi2904-25\\webapi2904-25.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "WebApi2904-25\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "WebApi2904-25\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:17:58.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi2904-25\\Program.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Program.cs",
+              "RelativeToolTip": "WebApi2904-25\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:11:11.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatContxt.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Dta\\DatContxt.cs",
+              "RelativeDocumentMoniker": "WebApi2904-25\\Dta\\DatContxt.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Dta\\DatContxt.cs",
+              "RelativeToolTip": "WebApi2904-25\\Dta\\DatContxt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:26:02.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Models\\Empleados.cs",
+              "RelativeDocumentMoniker": "WebApi2904-25\\Models\\Empleados.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Models\\Empleados.cs",
+              "RelativeToolTip": "WebApi2904-25\\Models\\Empleados.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:23:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApi2904-25.csproj",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\WebApi2904-25.csproj",
+              "RelativeDocumentMoniker": "WebApi2904-25\\WebApi2904-25.csproj",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\WebApi2904-25.csproj",
+              "RelativeToolTip": "WebApi2904-25\\WebApi2904-25.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T18:23:04.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi2904-25\\appsettings.json",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\appsettings.json",
+              "RelativeToolTip": "WebApi2904-25\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T18:17:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CPuesto.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Models\\CPuesto.cs",
+              "RelativeDocumentMoniker": "WebApi2904-25\\Models\\CPuesto.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Models\\CPuesto.cs",
+              "RelativeToolTip": "WebApi2904-25\\Models\\CPuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:25:36.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPuestoController.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Controllers\\CPuestoController.cs",
+              "RelativeDocumentMoniker": "WebApi2904-25\\Controllers\\CPuestoController.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\WebApi2904-25\\WebApi2904-25\\Controllers\\CPuestoController.cs",
+              "RelativeToolTip": "WebApi2904-25\\Controllers\\CPuestoController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:33:30.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
